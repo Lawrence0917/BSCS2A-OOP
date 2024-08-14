@@ -1,1 +1,2 @@
-# BSCS2A-OOP
+John Lawrence Asoro
+Software Engineer
